@@ -4,5 +4,7 @@
 *.user
 *.vs
 *.pdb
+bin
+Release
 Debug
 x64
